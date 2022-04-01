@@ -1,1 +1,1 @@
-# IntelligeRobotics
+# Intelligence Robotics
