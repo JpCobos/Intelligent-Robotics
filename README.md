@@ -1,4 +1,3 @@
-# Implementation of Intelligent Robotics 
+04/04/2022 
 
-This repository will be used for storing all the activities, homeworks and projects
-related to the subject of Implementation of Intelligent Robotics 
+Carga de act 1 
